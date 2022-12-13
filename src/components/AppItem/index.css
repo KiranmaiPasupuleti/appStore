@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.store-app-container {
+  background-color: white;
+  border-radius: 8px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  width: 200px;
+}
+.app-image {
+  height: 100px;
+  width: 100px;
+}
+.app-name {
+  font-family: 'Bree Serif';
+  text-align: center;
+  font-size: 25px;
+}
